@@ -15,3 +15,5 @@
 7. Commit your changes with a description: `git commit -m "Added a photo"`
 
 8. Push your changes to GitHub: `git push origin master`
+
+9. test
